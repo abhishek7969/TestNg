@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNgMavenExampleSuite" duration-ms="54" started-at="2017-02-07T07:07:06Z" finished-at="2017-02-07T07:07:06Z">
+    <groups>
+    </groups>
+    <test name="TestNgMavenTest" duration-ms="54" started-at="2017-02-07T07:07:06Z" finished-at="2017-02-07T07:07:06Z">
+      <class name="com.javacodegeeks.testng.maven.TestNgMavenExample">
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:com.javacodegeeks.testng.maven.TestNgMavenExample@47d384ee]" name="exampleOfTestNgMaven" duration-ms="21" started-at="2017-02-07T12:37:06Z" finished-at="2017-02-07T12:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+      </class> <!-- com.javacodegeeks.testng.maven.TestNgMavenExample -->
+      <class name="com.javacodegeeks.testng.maven.TestNgMavenSecondClass">
+        <test-method status="PASS" signature="oneMoreTest()[pri:0, instance:com.javacodegeeks.testng.maven.TestNgMavenSecondClass@ba4d54]" name="oneMoreTest" duration-ms="1" started-at="2017-02-07T12:37:06Z" finished-at="2017-02-07T12:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneMoreTest -->
+      </class> <!-- com.javacodegeeks.testng.maven.TestNgMavenSecondClass -->
+    </test> <!-- TestNgMavenTest -->
+  </suite> <!-- TestNgMavenExampleSuite -->
+</testng-results>
